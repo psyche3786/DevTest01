@@ -39,6 +39,6 @@ public class HelloWorld {
 		db.close();
 		System.out.println("Complete");
 		
-		
+		System.out.println("Add Tets!~!!");
 	}
 }
